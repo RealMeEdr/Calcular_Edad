@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Práctica 7. Activity</string>
+    <string name="txt_nombre">Ingresa tu Nombre</string>
+    <string name="txt_pass">Ingresa tu constraseña</string>
+    <string name="btn_registrar">Ingresar</string>
+    <string name="btn_regresar">Salir</string>
+    <string name="txt_Mostrar_nombre">Bienvendi@ : </string>
+    <string name="txt_fechanac">Fecha de Nacimiento: </string>
+    <string name="txt_FechaAct">Fecha Actual: </string>
+    <string name="txt_Edad">Edad: </string>
+    <string name="btn_Fecha">Fecha Nacimiento</string>
+</resources>
